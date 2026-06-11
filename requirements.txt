@@ -7,4 +7,5 @@ pandas
 plotly
 numpy
 sentencepiece
-accelerate
+tiktoken
+protobuf
