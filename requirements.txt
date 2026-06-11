@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+safetensors
+pandas
+plotly
+numpy
+sentencepiece
+accelerate
